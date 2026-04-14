@@ -10,9 +10,9 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on a discord bot.
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on my discord bot.
+- 🔭 I'm working on myself.
+- 🌱 I’m currently exploring more in JavaScript.
+- 👯 I’m looking to collaborate on my vision.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Web Development, Any tech-related stuff.
 
@@ -24,7 +24,6 @@
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.oceankumar.me/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/iamoceankumar) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iamoceankumar/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Ocean_YT-193599048258370/) 
 
 </p>
 
