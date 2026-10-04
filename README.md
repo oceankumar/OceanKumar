@@ -1,11 +1,13 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg" />
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-mobile-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
   <img src="assets/hero-light.svg" width="100%" alt="Ocean Kumar — AI Product Developer · Full-Stack Builder. Building AI systems that retrieve, reason, automate and ship." />
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=4200&amp;pause=1600&amp;color=9575DE&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=RAG+%E2%86%92+Retrieval+%E2%86%92+Reranking+%E2%86%92+Grounded+answers;FastAPI+%C3%97+Next.js+%C3%97+PostgreSQL+%C3%97+LLMs;Turning+messy+workflows+into+intelligent+software" width="100%" alt="RAG → retrieval → reranking → grounded answers. FastAPI × Next.js × PostgreSQL × LLMs." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=4200&amp;pause=1600&amp;color=9575DE&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=45&amp;lines=RAG+%E2%86%92+Source-grounded+answers;FastAPI+%C3%97+Next.js+%C3%97+PostgreSQL;From+messy+workflows+to+useful+software" width="480" alt="RAG → retrieval → reranking → grounded answers. FastAPI × Next.js × PostgreSQL × LLMs." />
   <a href="https://www.linkedin.com/in/oceankumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7546D8?style=flat-square" alt="Connect with Ocean on LinkedIn" /></a>
   <a href="https://github.com/oceankumar?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_the_code-096F83?style=flat-square&amp;logo=github" alt="Explore public repositories" /></a>
 </p>
@@ -95,13 +97,13 @@ Microsoft Student Ambassador · Former Google Student Ambassador · Lead Designe
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-dark.svg?v=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg?v=1" />
-  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg?v=1" width="100%" alt="GitHub telemetry: contributions over the last year, public repositories, stars, and followers. Refreshed daily." />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg?v=1" width="420" alt="GitHub telemetry: contributions over the last year, public repositories, stars, and followers. Refreshed daily." />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-dark.svg?v=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg?v=1" />
-  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg?v=1" width="100%" alt="Language composition by code bytes in public, non-fork repositories. This measures repository code, not proficiency." />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg?v=1" width="420" alt="Language composition by code bytes in public, non-fork repositories. This measures repository code, not proficiency." />
 </picture>
 
 <p align="center">
