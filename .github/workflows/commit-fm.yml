@@ -33,6 +33,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: commit-fm
+  cancel-in-progress: false
+
 jobs:
   broadcast:
     runs-on: ubuntu-latest
