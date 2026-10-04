@@ -7,8 +7,6 @@
 
 CS & AI student in India, building useful software across LLM integrations, APIs, and full-stack systems. A builder’s mindset, with a designer’s eye.
 
-<img src="commit-fm.svg" width="100%" alt="Commit FM — vinyl now-playing widget showing my recent public repository activity" />
-
 ### Workbench
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,nextjs,nodejs,postgres,supabase&amp;perline=8" height="36" alt="Python · FastAPI · JavaScript · React · Next.js · Node.js · PostgreSQL · Supabase" /><br />
