@@ -69,7 +69,7 @@ def main():
     if not weeks:
         raise RuntimeError('Contribution calendar is empty')
     updated = datetime.now(timezone.utc).strftime('%d %b %Y')
-    values = [(calendar['totalContributions'], 'CONTRIBUTIONS / YEAR'),
+    values = [(calendar['totalContributions'], 'PUBLIC CONTRIBUTIONS / YEAR'),
               (len(public), 'PUBLIC REPOSITORIES'),
               (sum(r['stargazers_count'] for r in owned), 'STARS / OWN REPOS'),
               (profile['followers'], 'FOLLOWERS')]
@@ -104,7 +104,7 @@ def main():
     line = ' '.join(f'{x:.2f},{y:.2f}' for x, y in points)
     start = weeks[0]['contributionDays'][0]['date']
     end = weeks[-1]['contributionDays'][-1]['date']
-    graph = '<text x="26" y="31" font-size="12" fill="ACCENT" letter-spacing="2">ACTIVITY / WEEKLY CONTRIBUTIONS</text>'
+    graph = '<text x="26" y="31" font-size="12" fill="ACCENT" letter-spacing="2">ACTIVITY / PUBLIC CONTRIBUTIONS</text>'
     for n in [0, peak/2, peak]:
         y = 157 - n * 102 / peak
         graph += f'<path d="M46 {y:.2f}H794" stroke="BORDER"/><text x="36" y="{y+4:.2f}" text-anchor="end" font-size="10" fill="MUTED">{round(n)}</text>'

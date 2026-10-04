@@ -127,7 +127,7 @@ Microsoft Student Ambassador · Former Google Student Ambassador · Lead Designe
   <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg?v=1" width="100%" alt="Weekly GitHub contributions across the last year, generated from the GitHub contribution calendar" />
 </picture>
 
-<p align="center"><sub>Telemetry, languages, activity graph, and snake refresh daily via <a href="https://github.com/oceankumar/OceanKumar/actions/workflows/snake.yml">GitHub Actions</a>. Language share reflects public repository bytes, not expertise.</sub></p>
+<p align="center"><sub>Public GitHub telemetry, languages, activity graph, and snake refresh daily via <a href="https://github.com/oceankumar/OceanKumar/actions/workflows/snake.yml">GitHub Actions</a>. Language share reflects public repository bytes, not expertise.</sub></p>
 
 <details>
 <summary><b>&gt; operating_system</b> — a small implementation detail</summary>
