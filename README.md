@@ -93,15 +93,15 @@ Microsoft Student Ambassador · Former Google Student Ambassador · Lead Designe
 ## `> telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg" />
-  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg" width="100%" alt="GitHub telemetry: contributions over the last year, public repositories, stars, and followers. Refreshed daily." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg?v=1" width="100%" alt="GitHub telemetry: contributions over the last year, public repositories, stars, and followers. Refreshed daily." />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg" />
-  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg" width="100%" alt="Language composition by code bytes in public, non-fork repositories. This measures repository code, not proficiency." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg?v=1" width="100%" alt="Language composition by code bytes in public, non-fork repositories. This measures repository code, not proficiency." />
 </picture>
 
 <p align="center">
@@ -114,15 +114,15 @@ Microsoft Student Ambassador · Former Google Student Ambassador · Lead Designe
 ## `> contribution_protocol`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake traversing Ocean Kumar's actual GitHub contribution grid" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake.svg?v=1" width="100%" alt="Animated snake traversing Ocean Kumar's actual GitHub contribution grid" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg" />
-  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg" width="100%" alt="Weekly GitHub contributions across the last year, generated from the GitHub contribution calendar" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg?v=1" width="100%" alt="Weekly GitHub contributions across the last year, generated from the GitHub contribution calendar" />
 </picture>
 
 <p align="center"><sub>Telemetry, languages, activity graph, and snake refresh daily via <a href="https://github.com/oceankumar/OceanKumar/actions/workflows/snake.yml">GitHub Actions</a>. Language share reflects public repository bytes, not expertise.</sub></p>
