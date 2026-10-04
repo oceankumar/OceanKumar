@@ -3,9 +3,7 @@
 **AI Product Developer × Full-Stack**<br />
 <sub>RAG · Agents · Retrieval · Automation</sub>
 
-<a href="https://www.linkedin.com/in/oceankumar/"><img src="https://img.shields.io/badge/LinkedIn-7546D8?style=flat-square" height="24" alt="LinkedIn" /></a>
-<a href="https://github.com/oceankumar?tab=repositories"><img src="https://img.shields.io/badge/GitHub-253441?style=flat-square&amp;logo=github&amp;logoColor=white" height="24" alt="GitHub repositories" /></a>
-<a href="mailto:oceankumar107@gmail.com"><img src="https://img.shields.io/badge/Email-Write_to_me-096F83?style=flat-square" height="24" alt="Email Ocean" /></a>
+[LinkedIn ↗](https://www.linkedin.com/in/oceankumar/) &nbsp;·&nbsp; [GitHub ↗](https://github.com/oceankumar?tab=repositories) &nbsp;·&nbsp; [Email ↗](mailto:oceankumar107@gmail.com)
 
 CS & AI student in India, building useful software across LLM integrations, APIs, and full-stack systems. A builder’s mindset, with a designer’s eye.
 
