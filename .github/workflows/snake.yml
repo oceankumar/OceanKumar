@@ -27,7 +27,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Generate telemetry and activity graph
+      - name: Generate compact language mix
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/profile_assets.py
