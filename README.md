@@ -1,64 +1,147 @@
-<h1><p align="center">Hello, I'm Ocean Kumar! <a href="https://www.softiebot.cf/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-light.svg" width="100%" alt="Ocean Kumar — AI Product Developer · Full-Stack Builder. Building AI systems that retrieve, reason, automate and ship." />
+</picture>
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
-
-
-<p align="center">I'm a student developer.<br/>Specialize in Web-Development.<br> I also love making Music, Graphic Design etc.<br></p><br/>
-
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
-
-- 🔭 I'm working on myself.
-- 🌱 I’m currently exploring more in JavaScript.
-- 👯 I’m looking to collaborate on my vision.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Web Development, Any tech-related stuff.
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.oceankumar.me/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/iamoceankumar) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iamoceankumar/)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=4200&amp;pause=1600&amp;color=9575DE&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=RAG+%E2%86%92+Retrieval+%E2%86%92+Reranking+%E2%86%92+Grounded+answers;FastAPI+%C3%97+Next.js+%C3%97+PostgreSQL+%C3%97+LLMs;Turning+messy+workflows+into+intelligent+software" width="100%" alt="RAG → retrieval → reranking → grounded answers. FastAPI × Next.js × PostgreSQL × LLMs." />
+  <a href="https://www.linkedin.com/in/oceankumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7546D8?style=flat-square" alt="Connect with Ocean on LinkedIn" /></a>
+  <a href="https://github.com/oceankumar?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_the_code-096F83?style=flat-square&amp;logo=github" alt="Explore public repositories" /></a>
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
+## `> whoami`
 
-<br>
+I build **AI applications and the systems around them**: retrieval pipelines, LLM integrations, data workflows, APIs, and interfaces people can actually use.
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-</div>  
+```text
+ocean@build-lab:~$ cat identity
+├── focus      AI product development + full-stack engineering
+├── systems    RAG · retrieval · agents · intelligent automation
+├── approach   source-grounded answers, traceable pipelines, useful UX
+└── rule       useful product > impressive demo
+```
+
+Current obsession: making AI products feel less like chatbots and more like dependable software.
+
+## `> featured_systems`
+
+### 01 / ContextIQ
+**Vectorless RAG Knowledge Assistant** · `private for now`
+
+Upload documents. Ask questions. Get source-grounded answers with citations.
+
+```text
+parse → chunk → index → retrieve → rerank → generate
+```
+
+PostgreSQL full-text search, metadata filtering, query expansion, relevance ranking, and LLM reranking select the context that reaches the model. Citations and a traceable retrieval pipeline keep answers connected to their sources.
+
+**Design principle:** relevant context first; generation second.
+
+### 02 / [InternAI](https://github.com/oceankumar/Internship-Intelligence-Platform)
+**AI Internship Intelligence Platform** · `FastAPI / Next.js / PostgreSQL`
+
+A searchable workspace that brings internship discovery, explainable matching, and application tracking together.
+
+```text
+discover → ingest → normalize → deduplicate → score → filter → match
+```
+
+Multi-source ingestion, evidence-aware trust and relevance scoring, eligibility checks, paid-role and experience filters, plus optional validated AI classification. Missing information stays unknown; a successful fetch is only the start of a useful result.
+
+[Explore the architecture and implementation →](https://github.com/oceankumar/Internship-Intelligence-Platform#architecture)
+
+**Also building:** [ParkEase](https://github.com/oceankumar/ParkEase) — a Node.js / MongoDB parking management system with QR entry and exit, slot allocation, bookings, billing, and analytics.
+
+## `> neural_stack`
+
+**AI / LLM**<br />
+RAG pipelines · LLM APIs · structured outputs · tool calling · query expansion · reranking · context management · document processing · agents<br />
+Local model workflows with **Ollama / LM Studio**.
+
+**Backend / data**<br />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,supabase,mongodb&amp;perline=6" height="42" alt="Python, FastAPI, Node.js, PostgreSQL, Supabase, MongoDB" /><br />
+REST APIs · SQL · ingestion · normalization · data pipelines
+
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css&amp;perline=6" height="42" alt="JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+
+<details>
+<summary><b>Cloud / tools</b> — the rest of the workbench</summary>
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp,aws,azure,figma&amp;perline=4" width="196" alt="Git, GitHub, VS Code, Vercel, GCP, AWS, Azure, Figma" />
+</details>
+
+## `> signal_history`
+
+**Adhyaapan · AI Product Development & Web Engineering Intern**<br />
+AI product prototyping, LLM integrations, backend services, and data workflows; building across the frontend, backend, and data layers.
+
+**Previously: Handshake · LLM Trainer / AI Response Evaluation**<br />
+Evaluated accuracy, relevance, clarity, and guideline adherence in model responses; reviewed structured AI training data.
+
+**B.Tech · Computer Science & Artificial Intelligence**<br />
+Newton School of Technology · 2025–2029
+
+<details>
+<summary><b>Community / leadership</b></summary>
+<br />
+Microsoft Student Ambassador · Former Google Student Ambassador · Lead Designer, GDG Rishihood University · Hacktoberfest 2025 Super Contributor · 10+ open-source pull requests · HPAIR ’26 Selected Delegate
+</details>
+
+## `> telemetry`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/telemetry-light.svg" width="100%" alt="GitHub telemetry: contributions over the last year, public repositories, stars, and followers. Refreshed daily." />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/languages-light.svg" width="100%" alt="Language composition by code bytes in public, non-fork repositories. This measures repository code, not proficiency." />
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=oceankumar&amp;hide_border=true&amp;background=0D1117&amp;ring=B89AFF&amp;fire=67E8F9&amp;currStreakNum=F0F6FC&amp;currStreakLabel=B89AFF&amp;sideNums=F0F6FC&amp;sideLabels=919BAB&amp;dates=919BAB" />
+    <img src="https://streak-stats.demolab.com?user=oceankumar&amp;hide_border=true&amp;background=F6F8FA&amp;ring=7546D8&amp;fire=096F83&amp;currStreakNum=1F2328&amp;currStreakLabel=7546D8&amp;sideNums=1F2328&amp;sideLabels=59636E&amp;dates=59636E" width="495" alt="Ocean's GitHub contribution streak" />
+  </picture>
+</p>
+
+## `> contribution_protocol`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake traversing Ocean Kumar's actual GitHub contribution grid" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg" />
+  <img src="https://raw.githubusercontent.com/oceankumar/OceanKumar/output/activity-light.svg" width="100%" alt="Weekly GitHub contributions across the last year, generated from the GitHub contribution calendar" />
+</picture>
+
+<p align="center"><sub>Telemetry, languages, activity graph, and snake refresh daily via <a href="https://github.com/oceankumar/OceanKumar/actions/workflows/snake.yml">GitHub Actions</a>. Language share reflects public repository bytes, not expertise.</sub></p>
+
+<details>
+<summary><b>&gt; operating_system</b> — a small implementation detail</summary>
+
+```python
+class Ocean:
+    mode = "BUILD"
+    interests = ("AI products", "retrieval", "agents", "automation")
+    rule = "Useful product > impressive demo"
+
+    def execute(self, idea):
+        return f"understand({idea}) → prototype → test → break → fix → ship → iterate"
+```
+
+</details>
+
+---
+
+<p align="center"><code>// ideas are cheap. execution leaves commits.</code></p>
