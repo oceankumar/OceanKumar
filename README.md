@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dee077/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=dee077.dee077"></a>
+  <a href="https://github.com/oceankumar/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=dee077.dee077"></a>
 </p>
 
 <br><br>
