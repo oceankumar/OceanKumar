@@ -11,9 +11,16 @@
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Product+Developer;Full+Stack+Developer;Reach+out+if+you+need+help!;Open+Source+Contributor" center=true&width=440&height=45" alt="Typing SVG" />
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Product+Developer;Full+Stack+Developer;Reach+out+if+you+need+help!;Open+Source+Contributor;center=true&width=440&height=45" alt="Typing SVG" />
 </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/dee077/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=dee077.dee077"></a>
+</p>
+
+<br><br>
 
 
 **AI Product Developer × Full-Stack**<br />
