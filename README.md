@@ -16,9 +16,9 @@
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/oceankumar/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=oceankumar.oceankumar"></a>
-</p>
+</p> -->
 
 <br><br>
 
