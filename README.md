@@ -21,6 +21,7 @@
 </p> -->
 
 <br><br>
+<br><br>
 
 <p>CS & AI student in India, building useful software across LLM integrations, APIs, and full-stack systems. A builder’s mindset, with a designer’s eye.</p>
 
