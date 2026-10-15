@@ -22,9 +22,6 @@
 
 <br><br>
 
-
-[LinkedIn ↗](https://www.linkedin.com/in/oceankumar/) &nbsp;·&nbsp; [GitHub ↗](https://github.com/oceankumar?tab=repositories) &nbsp;·&nbsp; [Email ↗](mailto:oceankumar107@gmail.com)
-
 CS & AI student in India, building useful software across LLM integrations, APIs, and full-stack systems. A builder’s mindset, with a designer’s eye.
 
 ### Workbench
@@ -37,6 +34,9 @@ CS & AI student in India, building useful software across LLM integrations, APIs
 **Now** · AI Product Development & Web Engineering Intern @ Adhyaapan<br />
 **Before** · LLM Trainer / AI Response Evaluation @ Handshake<br />
 **Learning** · B.Tech CS & AI · Newton School of Technology · ’29
+
+
+[LinkedIn ↗](https://www.linkedin.com/in/oceankumar/) &nbsp;·&nbsp; [GitHub ↗](https://github.com/oceankumar?tab=repositories) &nbsp;·&nbsp; [Email ↗](mailto:oceankumar107@gmail.com)
 
 <sub>Microsoft Student Ambassador · GDG Lead Designer · HPAIR ’26 Selected Delegate · Hacktoberfest 2025 Super Contributor</sub>
 
