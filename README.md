@@ -23,9 +23,6 @@
 <br><br>
 
 
-**AI Product Developer × Full-Stack**<br />
-<sub>RAG · Agents · Retrieval · Automation</sub>
-
 [LinkedIn ↗](https://www.linkedin.com/in/oceankumar/) &nbsp;·&nbsp; [GitHub ↗](https://github.com/oceankumar?tab=repositories) &nbsp;·&nbsp; [Email ↗](mailto:oceankumar107@gmail.com)
 
 CS & AI student in India, building useful software across LLM integrations, APIs, and full-stack systems. A builder’s mindset, with a designer’s eye.
